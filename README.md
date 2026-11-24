@@ -20,4 +20,4 @@ Nothing else is stored here, and no information is sent by the add-ons beyond a 
 
 - `version` — the latest released version (`MAJOR.MINOR.PATCH`)
 - `notes` — short English lines shown under the update notice (keep each line short; Blender does not wrap labels)
-- Download links are intentionally not included. The add-on opens its documentation page (the `website` in its manifest), which lists where to get it.
+- Download links are intentionally not included. The add-on opens a fixed download page (a list of stores) that is written in the add-on itself.
