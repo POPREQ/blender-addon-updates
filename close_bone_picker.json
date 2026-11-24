@@ -1,8 +1,10 @@
 {
   "schema": 1,
-  "version": "1.8.0",
+  "version": "1.7.0",
   "notes": [
-    "Flick Pick: select bones with a directional mouse gesture",
-    "Structures and pie menus can be exported from multiple node trees"
+    "Mirror Symmetry now applies correctly to CBP Actions",
+    "Operator steps keep working after regenerating Rigify rigs",
+    "Fixed a crash with duplicate Bone Nodes, and added warnings",
+    "Bone Collection Viewer: drag across collections to toggle them"
   ]
 }
