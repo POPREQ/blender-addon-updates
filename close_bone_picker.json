@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "version": "1.8.0",
+  "notes": [
+    "Flick Pick: select bones with a directional mouse gesture",
+    "Structures and pie menus can be exported from multiple node trees"
+  ]
+}
